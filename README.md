@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akhil A Kumar
 - 👀 I’m interested in coding,ML,DL,SQL etc
-- 🌱 I’m currently learning Data science
+- 🌱 I’m currently learning Data Science
 
 
 <!---
