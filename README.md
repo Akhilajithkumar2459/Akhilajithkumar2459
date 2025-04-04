@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akhil A Kumar</h1>
+<h1 align="center">Hi,I'm Akhil A Kumar</h1>
 <h3 align="center">AI & ML Enthusiast | Full Stack Developer | Innovator</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/6tXM.gif">
