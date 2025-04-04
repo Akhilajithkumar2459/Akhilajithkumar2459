@@ -1,7 +1,7 @@
 <h1 align="center">Hi,I'm Akhil A Kumar</h1>
 <h3 align="center">AI & ML Enthusiast | Full Stack Developer | Innovator</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://media1.giphy.com/media/dKc2fBq97S9gIzLX2j/giphy.gif](https://media3.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=6c09b952noxirbi5g5uti6nhbtxm8dfrglf362k8ev7r04qw&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/6tXM.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=akhilajithkumar2459&label=Profile%20views&color=0e75b6&style=flat" alt="akhilajithkumar2459" />
