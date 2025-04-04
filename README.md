@@ -3,25 +3,35 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/6tXM.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilajithkumar2459&label=Profile%20views&color=0e75b6&style=flat" alt="akhilajithkumar2459" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=akhilajithkumar2459&label=Profile%20views&color=0e75b6&style=flat" alt="akhilajithkumar2459" />
+</p>
 
 - 🔭 I’m currently working on **Brain Tumor Classification using Deep Learning**
 
 - 🌱 I’m currently learning **Generative AI, HTML, CSS, and JavaScript**
 
-- 🧠 Passionate about **Medical AI research**, Computer vision, and LLM-powered applications
+- 🧠 Passionate about **Medical AI research**, Computer Vision, and LLM-powered applications
 
 - 💬 Ask me about **Python, Machine Learning, Deep Learning, and the MERN Stack**
 
-- 📫 How to reach me **akhilajithkumar91@gmail.com**
+- 📫 How to reach me: **akhilajithkumar91@gmail.com**
 
 - 🌐 Portfolio: [My Portfolio Website](https://akhilajithkumar2459.github.io/My_portfolio_website/)
 
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/akhilajithkumar2459" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhilajithkumar2459" height="30" width="40" /></a>
-<a href="https://leetcode.com/akhilajithkumar2459" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akhilajithkumar2459" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/akhilajithkumar2459" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/akhilajithkumar2459" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -40,8 +50,18 @@
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akhilajithkumar2459&show_icons=true&locale=en&layout=compact" alt="Akhilajithkumar2459" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akhilajithkumar2459&show_icons=true&locale=en" alt="Akhilajithkumar2459" /></p>
+<h3 align="left">📊 GitHub Stats:</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akhilajithkumar2459&" alt="Akhilajithkumar2459" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilajithkumar2459&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilajithkumar2459&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p>
+  <img align="center" src="https://streak-stats.demolab.com?user=akhilajithkumar2459&theme=default" alt="GitHub Streak" />
+</p>
