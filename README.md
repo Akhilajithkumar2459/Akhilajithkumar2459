@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilajithkumar2459&label=Profile%20views&color=0e75b6&style=flat" alt="akhilajithkumar2459" /> </p>
 
-<img width="350" height="350" align="right" src="/gifs/cowboy coding.gif" alt="coding gif">
+<img width="350" height="350" align="right" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" alt="coding gif">
 
 <div style="background-color: #f9f9f9; border-radius: 10px; padding: 20px; border: 1px solid #ddd;">
   <p><strong>🚀 I’m currently working on</strong> <span style="color: #555;">Brain Tumor classification using CNN</span></p>
