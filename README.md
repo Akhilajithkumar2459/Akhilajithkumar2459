@@ -8,9 +8,10 @@
 <h1 align="center">Hi, I'm Akhil A Kumar</h1>
 <p align="center">
   <a href="https://github.com/akhilajithkumar2459">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Enthusiast;Aspiring+Data+Scientist%7C+Deep+Learning+Explorer;Building+AI-Powered+Applications&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Enthusiast;Aspiring+Data+Scientist;+Deep+Learning+Explorer;Building+AI-Powered+Applications&center=true&width=500&height=50&pause=1000&color=F75000&vCenter=true&size=22">
   </a>
 </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilajithkumar2459&label=Profile%20views&color=0e75b6&style=flat" alt="akhilajithkumar2459" /> </p>
 
