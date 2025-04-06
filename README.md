@@ -2,6 +2,13 @@
   <img width="1000" height="200" src="https://i.pinimg.com/originals/4e/9e/1f/4e9e1f5a41b738e3066d135da871a46c.gif" alt="my banner">
 </div>
 
+<p align="center">
+  <a href="https://github.com/akhilajithkumar2459">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Akhil+A+Kumar!;AI+Enthusiast+%7C+Deep+Learning+Explorer;Building+AI-Powered+Applications&center=true&width=500&height=50">
+  </a>
+</p>
+
+
 <h1 align="center">Hi, I'm Akhil A Kumar</h1>
 <h3 align="center">Machine Learning Enthusiast | Web Developer | Computer Vision Explorer</h3>
 
