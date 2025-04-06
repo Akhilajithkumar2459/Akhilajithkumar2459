@@ -12,7 +12,7 @@
 <div style="background-color: #f9f9f9; border-radius: 10px; padding: 20px; border: 1px solid #ddd;">
   <p><strong>🚀 I’m currently working on</strong> <span style="color: #555;">Brain Tumor classification using CNN</span></p>
   <p><strong>📚 I’m currently learning</strong> <span style="color: #555;">Generative AI</span></p>
-  <p><strong>🛠 All of my projects are available at</strong> <a href="https://github.com/akhilajithkumar2459?tab=repositories" target="_blank"><strong>PROJECTS</strong></a></p>
+  <p><strong>🛠 All of my works are available at</strong> <a href="https://github.com/akhilajithkumar2459?tab=repositories" target="_blank"><strong>Works</strong></a></p>
   <p><strong>💬 Ask me about</strong> <span style="color: #555;">CNNs | LSTMs | Python | Scikit-learn | MERN Stack</span></p>
   <p><strong>📫 How to reach me</strong> <span style="color: #555;">akhilajithkumar91@gmail.com</span></p>
   <p><strong>📄 Know about my experiences</strong> <a href="https://drive.google.com/file/d/19jCdReQH3fDshw2lDKQveljgUdGcjxFH/view?usp=drive_link" target="_blank"><strong>RESUME</strong></a></p>
