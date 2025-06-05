@@ -18,7 +18,7 @@
 <img width="350" height="350" align="right" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" alt="coding gif">
 
 <div style="background-color: #f9f9f9; border-radius: 10px; padding: 20px; border: 1px solid #ddd;">
-  <p><strong>🚀 I’m currently working on</strong> <span style="color: #555;">Brain Tumor classification using CNN</span></p>
+  <p><strong>🚀 I’m persuing masters in </strong> <span style="color: #555;">Artificial Intelligence</span></p>
   <p><strong>📚 I’m currently learning</strong> <span style="color: #555;">Generative AI</span></p>
   <p><strong>🛠 All of my works are available at</strong> <a href="https://github.com/akhilajithkumar2459?tab=repositories" target="_blank"><strong>Works</strong></a></p>
   <p><strong>📫 How to reach me</strong> <span style="color: #555;">akhilajithkumar91@gmail.com</span></p>
