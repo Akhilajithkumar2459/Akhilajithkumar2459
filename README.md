@@ -22,7 +22,7 @@
   <p><strong>📚 I’m currently learning</strong> <span style="color: #555;">Generative AI</span></p>
   <p><strong>🛠 All of my works are available at</strong> <a href="https://github.com/akhilajithkumar2459?tab=repositories" target="_blank"><strong>Works</strong></a></p>
   <p><strong>📫 How to reach me</strong> <span style="color: #555;">akhilajithkumar91@gmail.com</span></p>
-  <p><strong>📄 Know about my experiences</strong> <a href="https://drive.google.com/file/d/19jCdReQH3fDshw2lDKQveljgUdGcjxFH/view?usp=drive_link" target="_blank"><strong>RESUME</strong></a></p>
+  <p><strong>📄 Know about my experiences</strong> <a href="https://drive.google.com/file/d/1maRM3KZTtAX7C-nbef9UOpMoPIb0HPM3/view?usp=drive_link" target="_blank"><strong>RESUME</strong></a></p>
 </div>
 
 <h3 align="left">Connect with me:</h3>
